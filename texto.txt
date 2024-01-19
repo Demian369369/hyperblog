@@ -1,0 +1,2 @@
+Esta es la historia de Dem, esta usando platzi para aprender 
+sobre github, y esta usando visual studio code
