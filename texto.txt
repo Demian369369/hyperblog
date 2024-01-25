@@ -3,3 +3,6 @@ sobre github, y esta usando visual studio code, ahora hizo su primer
 cambio en este repositorio de texto
 y ahora lo modificamos nuevamente
 y otra vez
+
+Ahora una nuvea trabajadora llamada anita quiere modificar este vim de texto  y subirlo desde su computadora al repositorio git, que deberia hacer?
+
