@@ -24,7 +24,9 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
-
+#logo
+{width:20px;vertical-align:middle
+}
 #container
 {
     width: 70%;
