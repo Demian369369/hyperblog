@@ -1,0 +1,1 @@
+#Este es el archivo der lectura de mi primer repositorio esta informacion es fundamental ya que es la principal al descargar mi repositorio y ayuda a comprender la utilidad de mi repositorio y contenido
