@@ -7,3 +7,4 @@ y otra vez
 Ahora una nuvea trabajadora llamada anita quiere modificar este vim de texto ella quiere contribuir desde su documento al repositorio git, que deberia hacer?
 
 Master 1
+Master 2
